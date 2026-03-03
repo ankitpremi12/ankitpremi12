@@ -1,7 +1,3 @@
-<!-- SNAKE ANIMATION - flowing contribution graph at top -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ankitpremi12/ankitpremi12/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
 
 ---
 
