@@ -31,8 +31,6 @@
 
 ---
 
-<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=ankitpremi12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
-
 ### 🧬 `whoami`
 
 ```python
@@ -46,8 +44,6 @@ class AnkitPremi:
 ```
 
 > *"I don't just build models — I ship systems that work in the real world."*
-
-<br clear="right"/>
 
 ---
 
