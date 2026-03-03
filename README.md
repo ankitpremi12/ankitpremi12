@@ -59,7 +59,7 @@ class AnkitPremi:
 
 ---
 
-### 🔭 Projects That Slap
+### 🔭 Projects 
 
 <table>
 <tr>
