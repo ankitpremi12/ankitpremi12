@@ -1,4 +1,11 @@
-<!-- HEADER BANNER -->
+<!-- SNAKE ANIMATION - flowing contribution graph at top -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ankitpremi12/ankitpremi12/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+---
+
+<!-- HEADER -->
 <div align="center">
 
 ```
@@ -16,7 +23,7 @@
 ```
 
 <a href="mailto:ankitpremiji@gmail.com"><img src="https://img.shields.io/badge/✉ EMAIL-0a0a0a?style=for-the-badge&logoColor=white"/></a>
-<a href="https://linkedin.com/in/ankit-premi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ankit-premi-a37b37255/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/ankitpremi12"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <img src="https://komarev.com/ghpvc/?username=ankitpremi12&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS"/>
 
@@ -41,20 +48,6 @@ class AnkitPremi:
 > *"I don't just build models — I ship systems that work in the real world."*
 
 <br clear="right"/>
-
----
-
-### ⚡ Impact in Numbers
-
-<div align="center">
-
-| 📉 | 🎯 | ⚡ | 🔁 |
-|:---:|:---:|:---:|:---:|
-| **75%** | **92%** | **60%** | **89%** |
-| Manual work eliminated | Stakeholder satisfaction | Faster AI workflows | Phishing detection precision |
-| *@ Vodafone* | *@ Vodafone* | *Agentic AI project* | *@ C-DOT Govt.* |
-
-</div>
 
 ---
 
@@ -180,8 +173,7 @@ class AnkitPremi:
 ### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitpremi12&theme=tokyonight&hide_border=true&background=0d1117" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitpremi12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitpremi12&theme=tokyonight&hide_border=true&background=0d1117" width="70%"/>
 </div>
 
 <div align="center">
@@ -206,7 +198,7 @@ class AnkitPremi:
 
 <div align="center">
 
-### 💼 I'm actively looking for roles in
+### 💼 Open to Roles in
 
 **`AI/ML Engineering`** &nbsp;·&nbsp; **`Data Science`** &nbsp;·&nbsp; **`GenAI Development`** &nbsp;·&nbsp; **`MLOps`**
 
@@ -215,7 +207,7 @@ class AnkitPremi:
 **Let's build something intelligent together.**
 
 <a href="mailto:ankitpremiji@gmail.com"><img src="https://img.shields.io/badge/📩 Hire Me-FF6B35?style=for-the-badge"/></a>
-<a href="https://linkedin.com/in/ankit-premi"><img src="https://img.shields.io/badge/Connect on LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ankit-premi-a37b37255/"><img src="https://img.shields.io/badge/Connect on LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 <br>
 
